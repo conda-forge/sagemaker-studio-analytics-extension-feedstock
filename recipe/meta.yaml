@@ -1,5 +1,5 @@
 {% set name = "sagemaker-studio-analytics-extension" %}
-{% set version = "0.0.19" %}
+{% set version = "0.0.20" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sagemaker-studio-analytics-extension-{{ version }}.tar.gz
-  sha256: 6b8c74f23f54d306d7d439e1cd0c47218b918b396b2a1d814600aa7dca58d28e
+  sha256: 5176f44c83be71306c252e3bd005bd81b1d05d6b3cdc939f2933830828c80043
 
 build:
   entry_points:
