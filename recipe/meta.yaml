@@ -1,5 +1,5 @@
 {% set name = "sagemaker-studio-analytics-extension" %}
-{% set version = "0.0.20" %}
+{% set version = "0.0.21" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sagemaker-studio-analytics-extension-{{ version }}.tar.gz
-  sha256: 5176f44c83be71306c252e3bd005bd81b1d05d6b3cdc939f2933830828c80043
+  sha256: 129eb0cdf895038cc5ef793291049b786e04e21fb563f4fc95d35a04a140bee2
 
 build:
   entry_points:
@@ -23,7 +23,7 @@ requirements:
   run:
     - python >=3.6
     - boto3 >=1.26.49,<2.0
-    - sparkmagic ==0.20.4
+    - sparkmagic ==0.21.0
     - sagemaker-studio-sparkmagic-lib >=0.1.1
     - filelock >=3.0.12
 
