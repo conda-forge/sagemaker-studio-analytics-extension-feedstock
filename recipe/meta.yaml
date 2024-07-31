@@ -20,6 +20,7 @@ requirements:
   host:
     - python >=3.6
     - pip
+    - setuptools >=40.8.0
   run:
     - python >=3.6
     - boto3 >=1.26.49,<2.0
@@ -44,6 +45,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - HariniNarayanan
     - just4brown
     - nargokul
     - pintaoz-aws
@@ -52,3 +54,4 @@ extra:
     - C24IO
     - Aditi2424
     - akrishna1995
+    - bhadrip
