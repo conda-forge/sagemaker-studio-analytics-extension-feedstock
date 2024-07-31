@@ -20,6 +20,7 @@ requirements:
   host:
     - python >=3.6
     - pip
+    - setuptools >=40.8.0
   run:
     - python >=3.6
     - boto3 >=1.26.49,<2.0
@@ -52,3 +53,4 @@ extra:
     - C24IO
     - Aditi2424
     - akrishna1995
+    - bhadrip
