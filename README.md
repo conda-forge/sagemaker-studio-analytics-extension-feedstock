@@ -152,8 +152,6 @@ Feedstock Maintainers
 * [@just4brown](https://github.com/just4brown/)
 * [@mufaddal-rohawala](https://github.com/mufaddal-rohawala/)
 * [@nargokul](https://github.com/nargokul/)
+* [@nileshvd](https://github.com/nileshvd/)
 * [@pintaoz-aws](https://github.com/pintaoz-aws/)
-
-
-<!-- dummy commit to enable rerendering -->
 
