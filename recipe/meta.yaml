@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
   sha256: 56a073cbfcf6dc596c05ddaf25baa2cc6db6eae80528e46a30a113d209755d67
 
 build:
@@ -14,15 +14,15 @@ build:
     - sm_analytics_runtime_check=sagemaker_studio_analytics_extension.utils.runtime_check:main
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 0
+  number: 1
 
 requirements:
   host:
-    - python >=3.6
+    - python {{ python_min }}
     - pip
     - setuptools >=40.8.0
   run:
-    - python >=3.6
+    - python >={{ python_min }}
     - boto3 >=1.26.49,<2.0
     - sparkmagic ==0.21.0
     - sagemaker-studio-sparkmagic-lib >=0.1.1
@@ -36,6 +36,7 @@ test:
     - sm_analytics_runtime_check --help
   requires:
     - pip
+    - python {{ python_min }}
 
 about:
   home: https://aws.amazon.com/sagemaker
