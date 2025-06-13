@@ -155,6 +155,3 @@ Feedstock Maintainers
 * [@nileshvd](https://github.com/nileshvd/)
 * [@pintaoz-aws](https://github.com/pintaoz-aws/)
 
-
-<!-- dummy commit to enable rerendering -->
-
