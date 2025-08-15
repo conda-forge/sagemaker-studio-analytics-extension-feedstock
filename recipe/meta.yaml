@@ -45,6 +45,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - pilgd-aws
     - joshuatowner
     - nileshvd
     - HariniNarayanan
