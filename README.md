@@ -146,15 +146,21 @@ Feedstock Maintainers
 * [@Aditi2424](https://github.com/Aditi2424/)
 * [@C24IO](https://github.com/C24IO/)
 * [@HariniNarayanan](https://github.com/HariniNarayanan/)
+* [@aakashmandavilli96](https://github.com/aakashmandavilli96/)
 * [@akrishna1995](https://github.com/akrishna1995/)
+* [@aws-jasakshi](https://github.com/aws-jasakshi/)
+* [@aws-jeffrey-yang](https://github.com/aws-jeffrey-yang/)
+* [@aws-pavankks](https://github.com/aws-pavankks/)
+* [@aws-prayags](https://github.com/aws-prayags/)
 * [@benieric](https://github.com/benieric/)
 * [@bhadrip](https://github.com/bhadrip/)
+* [@henrywa2](https://github.com/henrywa2/)
+* [@joshuatowner](https://github.com/joshuatowner/)
 * [@just4brown](https://github.com/just4brown/)
 * [@mufaddal-rohawala](https://github.com/mufaddal-rohawala/)
 * [@nargokul](https://github.com/nargokul/)
 * [@nileshvd](https://github.com/nileshvd/)
+* [@pilgd-aws](https://github.com/pilgd-aws/)
 * [@pintaoz-aws](https://github.com/pintaoz-aws/)
-
-
-<!-- dummy commit to enable rerendering -->
+* [@sgganjo](https://github.com/sgganjo/)
 
