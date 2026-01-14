@@ -45,6 +45,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - aws-jjyim
     - pilgd-aws
     - joshuatowner
     - nileshvd
