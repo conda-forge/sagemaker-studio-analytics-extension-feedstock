@@ -150,6 +150,7 @@ Feedstock Maintainers
 * [@akrishna1995](https://github.com/akrishna1995/)
 * [@aws-jasakshi](https://github.com/aws-jasakshi/)
 * [@aws-jeffrey-yang](https://github.com/aws-jeffrey-yang/)
+* [@aws-jjyim](https://github.com/aws-jjyim/)
 * [@aws-pavankks](https://github.com/aws-pavankks/)
 * [@aws-prayags](https://github.com/aws-prayags/)
 * [@benieric](https://github.com/benieric/)
